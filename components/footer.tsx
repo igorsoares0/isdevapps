@@ -9,7 +9,7 @@ export function Footer() {
           <a href="/privacy-policy" className="text-xs text-muted-foreground transition-colors hover:text-foreground">
             Privacy
           </a>
-          <a href="#" className="text-xs text-muted-foreground transition-colors hover:text-foreground">
+          <a href="/terms-of-service" className="text-xs text-muted-foreground transition-colors hover:text-foreground">
             Terms
           </a>
         </nav>
